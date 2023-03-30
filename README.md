@@ -6,9 +6,9 @@ Steps :
 
 2) Install the project using ‘npm install’ and run using 'npm start'
 
-3)Find the file -> sampleInputData.json
+3) Find the file -> sampleInputData.json
 
-4)Copy the contents of the above file and modify the contents if required.
+4) Copy the contents of the above file and modify the contents if required.
     In postman, open a new request ‘POST’, type ‘http://localhost:8081' in the endpoint, and paste the copied content from above, into the body section as JSON and run.
 
       
