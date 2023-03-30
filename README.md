@@ -4,7 +4,7 @@ Steps :
 
 1) Clone the repo
 
-2) Install the project using ‘npm install’
+2) Install the project using ‘npm install’ and run using 'npm start'
 
 3)Find the file -> sampleInputData.json
 
