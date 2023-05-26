@@ -80,13 +80,13 @@ app.post('/', async (req, res) => {
     const transporter = nodemailer.createTransport({
       service: 'gmail',
       auth: {
-        user: 'sathishsatz.2023@gmail.com',
-        pass: 'ygxjtptjztcvmpzu'
+        user: '',
+        pass: ''
       }
     });
 
     const mailOptions = {
-      from: 'sathishsatz.2023@gmail.com',
+      from: '',
       to: emailId,
       subject: 'Step Counts Report',
       text: 'Please find the chart PDF attached.',
